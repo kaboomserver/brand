@@ -1,2 +1,2 @@
-# branding
-Branding assets for Kaboom
+# brand
+Brand assets for Kaboom
